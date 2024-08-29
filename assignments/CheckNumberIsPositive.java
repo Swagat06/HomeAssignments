@@ -6,7 +6,7 @@ public class CheckNumberIsPositive {
 		
          int version=10;
          
-         if(version>0)
+         if(version>=0)
          {
          
         	 System.out.println(version+": This number is Positive");
